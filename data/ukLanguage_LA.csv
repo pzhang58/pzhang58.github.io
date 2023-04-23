@@ -1,0 +1,1999 @@
+code,category,value,areaName
+E06000001,N/A,2918,Hartlepool
+E06000001,main,87544,Hartlepool
+E06000001,veryWell,633,Hartlepool
+E06000001,well,658,Hartlepool
+E06000001,notWell,475,Hartlepool
+E06000001,none,110,Hartlepool
+E06000002,N/A,5107,Middlesbrough
+E06000002,main,128306,Middlesbrough
+E06000002,veryWell,3724,Middlesbrough
+E06000002,well,4111,Middlesbrough
+E06000002,notWell,2281,Middlesbrough
+E06000002,none,395,Middlesbrough
+E06000003,N/A,3876,Redcar and Cleveland
+E06000003,main,131197,Redcar and Cleveland
+E06000003,veryWell,536,Redcar and Cleveland
+E06000003,well,513,Redcar and Cleveland
+E06000003,notWell,330,Redcar and Cleveland
+E06000003,none,79,Redcar and Cleveland
+E06000004,N/A,6143,Stockton-on-Tees
+E06000004,main,184786,Stockton-on-Tees
+E06000004,veryWell,2451,Stockton-on-Tees
+E06000004,well,1883,Stockton-on-Tees
+E06000004,notWell,1099,Stockton-on-Tees
+E06000004,none,233,Stockton-on-Tees
+E06000005,N/A,3197,Darlington
+E06000005,main,100200,Darlington
+E06000005,veryWell,1807,Darlington
+E06000005,well,1690,Darlington
+E06000005,notWell,785,Darlington
+E06000005,none,120,Darlington
+E06000006,N/A,4044,Halton
+E06000006,main,121114,Halton
+E06000006,veryWell,1271,Halton
+E06000006,well,1282,Halton
+E06000006,notWell,617,Halton
+E06000006,none,150,Halton
+E06000011,N/A,8399,East Riding of Yorkshire
+E06000011,main,326484,East Riding of Yorkshire
+E06000011,veryWell,3155,East Riding of Yorkshire
+E06000011,well,2581,East Riding of Yorkshire
+E06000011,notWell,1353,East Riding of Yorkshire
+E06000011,none,243,East Riding of Yorkshire
+E06000012,N/A,4909,North East Lincolnshire
+E06000012,main,146176,North East Lincolnshire
+E06000012,veryWell,1962,North East Lincolnshire
+E06000012,well,2501,North East Lincolnshire
+E06000012,notWell,1287,North East Lincolnshire
+E06000012,none,131,North East Lincolnshire
+E06000014,N/A,5088,York
+E06000014,main,187680,York
+E06000014,veryWell,5176,York
+E06000014,well,3620,York
+E06000014,notWell,1147,York
+E06000014,none,111,York
+E06000015,N/A,9076,Derby
+E06000015,main,219616,Derby
+E06000015,veryWell,12624,Derby
+E06000015,well,11811,Derby
+E06000015,notWell,6781,Derby
+E06000015,none,1456,Derby
+E06000017,N/A,892,Rutland
+E06000017,main,39386,Rutland
+E06000017,veryWell,460,Rutland
+E06000017,well,212,Rutland
+E06000017,notWell,90,Rutland
+E06000017,none,10,Rutland
+E06000018,N/A,10362,Nottingham
+E06000018,main,268420,Nottingham
+E06000018,veryWell,18434,Nottingham
+E06000018,well,16945,Nottingham
+E06000018,notWell,8092,Nottingham
+E06000018,none,1379,Nottingham
+E06000019,N/A,4871,Herefordshire
+E06000019,main,173475,Herefordshire
+E06000019,veryWell,3345,Herefordshire
+E06000019,well,3514,Herefordshire
+E06000019,notWell,1551,Herefordshire
+E06000019,none,278,Herefordshire
+E06000020,N/A,6231,Telford and Wrekin
+E06000020,main,167409,Telford and Wrekin
+E06000020,veryWell,4729,Telford and Wrekin
+E06000020,well,4723,Telford and Wrekin
+E06000020,notWell,2097,Telford and Wrekin
+E06000020,none,352,Telford and Wrekin
+E06000021,N/A,9379,Stoke-on-Trent
+E06000021,main,227019,Stoke-on-Trent
+E06000021,veryWell,8124,Stoke-on-Trent
+E06000021,well,9009,Stoke-on-Trent
+E06000021,notWell,4166,Stoke-on-Trent
+E06000021,none,674,Stoke-on-Trent
+E06000023,N/A,15527,Bristol
+E06000023,main,410701,Bristol
+E06000023,veryWell,22748,Bristol
+E06000023,well,16342,Bristol
+E06000023,notWell,6195,Bristol
+E06000023,none,952,Bristol
+E06000024,N/A,6210,North Somerset
+E06000024,main,202255,North Somerset
+E06000024,veryWell,3948,North Somerset
+E06000024,well,3099,North Somerset
+E06000024,notWell,1035,North Somerset
+E06000024,none,182,North Somerset
+E06000026,N/A,7761,Plymouth
+E06000026,main,245374,Plymouth
+E06000026,veryWell,5556,Plymouth
+E06000026,well,4188,Plymouth
+E06000026,notWell,1569,Plymouth
+E06000026,none,247,Plymouth
+E06000027,N/A,3506,Torbay
+E06000027,main,131835,Torbay
+E06000027,veryWell,1948,Torbay
+E06000027,well,1461,Torbay
+E06000027,notWell,489,Torbay
+E06000027,none,84,Torbay
+E06000031,N/A,8260,Peterborough
+E06000031,main,166028,Peterborough
+E06000031,veryWell,14957,Peterborough
+E06000031,well,17027,Peterborough
+E06000031,notWell,8029,Peterborough
+E06000031,none,1373,Peterborough
+E06000032,N/A,9512,Luton
+E06000032,main,165995,Luton
+E06000032,veryWell,17556,Luton
+E06000032,well,20225,Luton
+E06000032,notWell,10203,Luton
+E06000032,none,1771,Luton
+E06000035,N/A,10122,Medway
+E06000035,main,252098,Medway
+E06000035,veryWell,8060,Medway
+E06000035,well,6392,Medway
+E06000035,notWell,2704,Medway
+E06000035,none,397,Medway
+E06000036,N/A,4209,Bracknell Forest
+E06000036,main,111127,Bracknell Forest
+E06000036,veryWell,5053,Bracknell Forest
+E06000036,well,3091,Bracknell Forest
+E06000036,notWell,924,Bracknell Forest
+E06000036,none,206,Bracknell Forest
+E06000037,N/A,4761,West Berkshire
+E06000037,main,149182,West Berkshire
+E06000037,veryWell,4191,West Berkshire
+E06000037,well,2378,West Berkshire
+E06000037,notWell,793,West Berkshire
+E06000037,none,143,West Berkshire
+E06000038,N/A,6055,Reading
+E06000038,main,136436,Reading
+E06000038,veryWell,15464,Reading
+E06000038,well,11135,Reading
+E06000038,notWell,4167,Reading
+E06000038,none,969,Reading
+E06000039,N/A,6842,Slough
+E06000039,main,110212,Slough
+E06000039,veryWell,17754,Slough
+E06000039,well,15836,Slough
+E06000039,notWell,6733,Slough
+E06000039,none,1119,Slough
+E06000040,N/A,4625,Windsor and Maidenhead
+E06000040,main,135982,Windsor and Maidenhead
+E06000040,veryWell,7778,Windsor and Maidenhead
+E06000040,well,3619,Windsor and Maidenhead
+E06000040,notWell,1303,Windsor and Maidenhead
+E06000040,none,186,Windsor and Maidenhead
+E06000041,N/A,5549,Wokingham
+E06000041,main,158226,Wokingham
+E06000041,veryWell,8715,Wokingham
+E06000041,well,3572,Wokingham
+E06000041,notWell,1194,Wokingham
+E06000041,none,246,Wokingham
+E06000042,N/A,10192,Milton Keynes
+E06000042,main,241997,Milton Keynes
+E06000042,veryWell,17378,Milton Keynes
+E06000042,well,12745,Milton Keynes
+E06000042,notWell,4158,Milton Keynes
+E06000042,none,591,Milton Keynes
+E06000043,N/A,6912,Brighton and Hove
+E06000043,main,245614,Brighton and Hove
+E06000043,veryWell,13957,Brighton and Hove
+E06000043,well,7502,Brighton and Hove
+E06000043,notWell,2732,Brighton and Hove
+E06000043,none,386,Brighton and Hove
+E06000044,N/A,6727,Portsmouth
+E06000044,main,182731,Portsmouth
+E06000044,veryWell,8806,Portsmouth
+E06000044,well,6639,Portsmouth
+E06000044,notWell,2694,Portsmouth
+E06000044,none,405,Portsmouth
+E06000045,N/A,8276,Southampton
+E06000045,main,203603,Southampton
+E06000045,veryWell,16807,Southampton
+E06000045,well,14078,Southampton
+E06000045,notWell,5398,Southampton
+E06000045,none,761,Southampton
+E06000047,N/A,14401,County Durham
+E06000047,main,498104,County Durham
+E06000047,veryWell,4760,County Durham
+E06000047,well,3296,County Durham
+E06000047,notWell,1243,County Durham
+E06000047,none,264,County Durham
+E06000050,N/A,10221,Cheshire West and Chester
+E06000050,main,335329,Cheshire West and Chester
+E06000050,veryWell,5802,Cheshire West and Chester
+E06000050,well,3847,Cheshire West and Chester
+E06000050,notWell,1664,Cheshire West and Chester
+E06000050,none,288,Cheshire West and Chester
+E06000051,N/A,8285,Shropshire
+E06000051,main,307064,Shropshire
+E06000051,veryWell,3582,Shropshire
+E06000051,well,2938,Shropshire
+E06000051,notWell,1425,Shropshire
+E06000051,none,312,Shropshire
+E06000053,N/A,68,Isles of Scilly
+E06000053,main,1940,Isles of Scilly
+E06000053,veryWell,27,Isles of Scilly
+E06000053,well,14,Isles of Scilly
+E06000053,notWell,4,Isles of Scilly
+E06000053,none,1,Isles of Scilly
+E06000054,N/A,14784,Wiltshire
+E06000054,main,478350,Wiltshire
+E06000054,veryWell,8454,Wiltshire
+E06000054,well,6265,Wiltshire
+E06000054,notWell,2133,Wiltshire
+E06000054,none,348,Wiltshire
+E06000055,N/A,6536,Bedford
+E06000055,main,156968,Bedford
+E06000055,veryWell,8565,Bedford
+E06000055,well,8347,Bedford
+E06000055,notWell,4156,Bedford
+E06000055,none,653,Bedford
+E06000056,N/A,10536,Central Bedfordshire
+E06000056,main,269941,Central Bedfordshire
+E06000056,veryWell,6930,Central Bedfordshire
+E06000056,well,5066,Central Bedfordshire
+E06000056,notWell,1503,Central Bedfordshire
+E06000056,none,276,Central Bedfordshire
+E06000057,N/A,8111,Northumberland
+E06000057,main,308943,Northumberland
+E06000057,veryWell,1620,Northumberland
+E06000057,well,1134,Northumberland
+E06000057,notWell,604,Northumberland
+E06000057,none,156,Northumberland
+E06000058,N/A,11009,Bournemouth Christchurch and Poole
+E06000058,main,356973,Bournemouth Christchurch and Poole
+E06000058,veryWell,16402,Bournemouth Christchurch and Poole
+E06000058,well,11476,Bournemouth Christchurch and Poole
+E06000058,notWell,3777,Bournemouth Christchurch and Poole
+E06000058,none,559,Bournemouth Christchurch and Poole
+E06000059,N/A,8569,Dorset
+E06000059,main,364215,Dorset
+E06000059,veryWell,3553,Dorset
+E06000059,well,2374,Dorset
+E06000059,notWell,740,Dorset
+E06000059,none,128,Dorset
+E06000060,N/A,17763,Buckinghamshire
+E06000060,main,496435,Buckinghamshire
+E06000060,veryWell,19722,Buckinghamshire
+E06000060,well,13084,Buckinghamshire
+E06000060,notWell,5168,Buckinghamshire
+E06000060,none,906,Buckinghamshire
+E06000061,N/A,11850,North Northamptonshire
+E06000061,main,314820,North Northamptonshire
+E06000061,veryWell,12735,North Northamptonshire
+E06000061,well,13957,North Northamptonshire
+E06000061,notWell,5391,North Northamptonshire
+E06000061,none,772,North Northamptonshire
+E06000062,N/A,14009,West Northamptonshire
+E06000062,main,366766,West Northamptonshire
+E06000062,veryWell,17494,West Northamptonshire
+E06000062,well,18528,West Northamptonshire
+E06000062,notWell,7783,West Northamptonshire
+E06000062,none,1145,West Northamptonshire
+E07000008,N/A,3790,Cambridge
+E07000008,main,113476,Cambridge
+E07000008,veryWell,18120,Cambridge
+E07000008,well,7777,Cambridge
+E07000008,notWell,2177,Cambridge
+E07000008,none,334,Cambridge
+E07000009,N/A,2590,East Cambridgeshire
+E07000009,main,80970,East Cambridgeshire
+E07000009,veryWell,2025,East Cambridgeshire
+E07000009,well,1449,East Cambridgeshire
+E07000009,notWell,643,East Cambridgeshire
+E07000009,none,85,East Cambridgeshire
+E07000010,N/A,3036,Fenland
+E07000010,main,90632,Fenland
+E07000010,veryWell,2635,Fenland
+E07000010,well,3681,Fenland
+E07000010,notWell,2146,Fenland
+E07000010,none,334,Fenland
+E07000012,N/A,5046,South Cambridgeshire
+E07000012,main,146396,South Cambridgeshire
+E07000012,veryWell,6928,South Cambridgeshire
+E07000012,well,2796,South Cambridgeshire
+E07000012,notWell,801,South Cambridgeshire
+E07000012,none,153,South Cambridgeshire
+E07000026,N/A,2496,Allerdale
+E07000026,main,92585,Allerdale
+E07000026,veryWell,525,Allerdale
+E07000026,well,372,Allerdale
+E07000026,notWell,136,Allerdale
+E07000026,none,39,Allerdale
+E07000027,N/A,2042,Barrow-in-Furness
+E07000027,main,64323,Barrow-in-Furness
+E07000027,veryWell,465,Barrow-in-Furness
+E07000027,well,354,Barrow-in-Furness
+E07000027,notWell,182,Barrow-in-Furness
+E07000027,none,41,Barrow-in-Furness
+E07000028,N/A,3165,Carlisle
+E07000028,main,103048,Carlisle
+E07000028,veryWell,1561,Carlisle
+E07000028,well,1448,Carlisle
+E07000028,notWell,702,Carlisle
+E07000028,none,100,Carlisle
+E07000029,N/A,1765,Copeland
+E07000029,main,64652,Copeland
+E07000029,veryWell,346,Copeland
+E07000029,well,206,Copeland
+E07000029,notWell,87,Copeland
+E07000029,none,21,Copeland
+E07000030,N/A,1286,Eden
+E07000030,main,52197,Eden
+E07000030,veryWell,508,Eden
+E07000030,well,519,Eden
+E07000030,notWell,183,Eden
+E07000030,none,46,Eden
+E07000031,N/A,2255,South Lakeland
+E07000031,main,99599,South Lakeland
+E07000031,veryWell,1269,South Lakeland
+E07000031,well,982,South Lakeland
+E07000031,notWell,316,South Lakeland
+E07000031,none,29,South Lakeland
+E07000032,N/A,3483,Amber Valley
+E07000032,main,120874,Amber Valley
+E07000032,veryWell,819,Amber Valley
+E07000032,well,686,Amber Valley
+E07000032,notWell,282,Amber Valley
+E07000032,none,62,Amber Valley
+E07000033,N/A,2485,Bolsover
+E07000033,main,74883,Bolsover
+E07000033,veryWell,842,Bolsover
+E07000033,well,1177,Bolsover
+E07000033,notWell,764,Bolsover
+E07000033,none,122,Bolsover
+E07000034,N/A,2967,Chesterfield
+E07000034,main,98352,Chesterfield
+E07000034,veryWell,1020,Chesterfield
+E07000034,well,762,Chesterfield
+E07000034,notWell,394,Chesterfield
+E07000034,none,74,Chesterfield
+E07000035,N/A,1511,Derbyshire Dales
+E07000035,main,69373,Derbyshire Dales
+E07000035,veryWell,343,Derbyshire Dales
+E07000035,well,212,Derbyshire Dales
+E07000035,notWell,85,Derbyshire Dales
+E07000035,none,15,Derbyshire Dales
+E07000036,N/A,3162,Erewash
+E07000036,main,107146,Erewash
+E07000036,veryWell,1206,Erewash
+E07000036,well,989,Erewash
+E07000036,notWell,346,Erewash
+E07000036,none,57,Erewash
+E07000037,N/A,2478,High Peak
+E07000037,main,87308,High Peak
+E07000037,veryWell,631,High Peak
+E07000037,well,324,High Peak
+E07000037,notWell,177,High Peak
+E07000037,none,15,High Peak
+E07000038,N/A,2768,North East Derbyshire
+E07000038,main,98124,North East Derbyshire
+E07000038,veryWell,563,North East Derbyshire
+E07000038,well,375,North East Derbyshire
+E07000038,notWell,130,North East Derbyshire
+E07000038,none,43,North East Derbyshire
+E07000041,N/A,3488,Exeter
+E07000041,main,117312,Exeter
+E07000041,veryWell,5304,Exeter
+E07000041,well,3389,Exeter
+E07000041,notWell,1047,Exeter
+E07000041,none,169,Exeter
+E07000042,N/A,2361,Mid Devon
+E07000042,main,78357,Mid Devon
+E07000042,veryWell,876,Mid Devon
+E07000042,well,791,Mid Devon
+E07000042,notWell,405,Mid Devon
+E07000042,none,63,Mid Devon
+E07000043,N/A,2550,North Devon
+E07000043,main,94235,North Devon
+E07000043,veryWell,911,North Devon
+E07000043,well,640,North Devon
+E07000043,notWell,234,North Devon
+E07000043,none,41,North Devon
+E07000045,N/A,3450,Teignbridge
+E07000045,main,129550,Teignbridge
+E07000045,veryWell,979,Teignbridge
+E07000045,well,584,Teignbridge
+E07000045,notWell,187,Teignbridge
+E07000045,none,56,Teignbridge
+E07000046,N/A,1625,Torridge
+E07000046,main,65812,Torridge
+E07000046,veryWell,327,Torridge
+E07000046,well,226,Torridge
+E07000046,notWell,103,Torridge
+E07000046,none,21,Torridge
+E07000047,N/A,1216,West Devon
+E07000047,main,55119,West Devon
+E07000047,veryWell,383,West Devon
+E07000047,well,263,West Devon
+E07000047,notWell,100,West Devon
+E07000047,none,15,West Devon
+E07000061,N/A,2739,Eastbourne
+E07000061,main,91681,Eastbourne
+E07000061,veryWell,3454,Eastbourne
+E07000061,well,2658,Eastbourne
+E07000061,notWell,977,Eastbourne
+E07000061,none,177,Eastbourne
+E07000062,N/A,2872,Hastings
+E07000062,main,83505,Hastings
+E07000062,veryWell,2183,Hastings
+E07000062,well,1684,Hastings
+E07000062,notWell,649,Hastings
+E07000062,none,102,Hastings
+E07000063,N/A,2576,Lewes
+E07000063,main,94527,Lewes
+E07000063,veryWell,1648,Lewes
+E07000063,well,811,Lewes
+E07000063,notWell,290,Lewes
+E07000063,none,56,Lewes
+E07000067,N/A,4852,Braintree
+E07000067,main,145977,Braintree
+E07000067,veryWell,2177,Braintree
+E07000067,well,1594,Braintree
+E07000067,notWell,575,Braintree
+E07000067,none,95,Braintree
+E07000068,N/A,2538,Brentwood
+E07000068,main,71495,Brentwood
+E07000068,veryWell,1839,Brentwood
+E07000068,well,851,Brentwood
+E07000068,notWell,271,Brentwood
+E07000068,none,53,Brentwood
+E07000069,N/A,2506,Castle Point
+E07000069,main,85609,Castle Point
+E07000069,veryWell,654,Castle Point
+E07000069,well,533,Castle Point
+E07000069,notWell,241,Castle Point
+E07000069,none,47,Castle Point
+E07000070,N/A,5639,Chelmsford
+E07000070,main,166881,Chelmsford
+E07000070,veryWell,5107,Chelmsford
+E07000070,well,2756,Chelmsford
+E07000070,notWell,996,Chelmsford
+E07000070,none,144,Chelmsford
+E07000071,N/A,6310,Colchester
+E07000071,main,174049,Colchester
+E07000071,veryWell,6873,Colchester
+E07000071,well,4013,Colchester
+E07000071,notWell,1241,Colchester
+E07000071,none,229,Colchester
+E07000072,N/A,4791,Epping Forest
+E07000072,main,122312,Epping Forest
+E07000072,veryWell,3968,Epping Forest
+E07000072,well,2669,Epping Forest
+E07000072,notWell,1063,Epping Forest
+E07000072,none,175,Epping Forest
+E07000074,N/A,1742,Maldon
+E07000074,main,63685,Maldon
+E07000074,veryWell,378,Maldon
+E07000074,well,251,Maldon
+E07000074,notWell,125,Maldon
+E07000074,none,26,Maldon
+E07000076,N/A,3866,Tendring
+E07000076,main,142078,Tendring
+E07000076,veryWell,1052,Tendring
+E07000076,well,841,Tendring
+E07000076,notWell,391,Tendring
+E07000076,none,64,Tendring
+E07000079,N/A,2319,Cotswold
+E07000079,main,86541,Cotswold
+E07000079,veryWell,1131,Cotswold
+E07000079,well,666,Cotswold
+E07000079,notWell,157,Cotswold
+E07000079,none,18,Cotswold
+E07000080,N/A,2326,Forest of Dean
+E07000080,main,83112,Forest of Dean
+E07000080,veryWell,648,Forest of Dean
+E07000080,well,542,Forest of Dean
+E07000080,notWell,301,Forest of Dean
+E07000080,none,75,Forest of Dean
+E07000082,N/A,3232,Stroud
+E07000082,main,115710,Stroud
+E07000082,veryWell,1214,Stroud
+E07000082,well,684,Stroud
+E07000082,notWell,219,Stroud
+E07000082,none,45,Stroud
+E07000084,N/A,6168,Basingstoke and Deane
+E07000084,main,166352,Basingstoke and Deane
+E07000084,veryWell,6530,Basingstoke and Deane
+E07000084,well,4316,Basingstoke and Deane
+E07000084,notWell,1462,Basingstoke and Deane
+E07000084,none,326,Basingstoke and Deane
+E07000085,N/A,3436,East Hampshire
+E07000085,main,118808,East Hampshire
+E07000085,veryWell,1889,East Hampshire
+E07000085,well,1150,East Hampshire
+E07000085,notWell,383,East Hampshire
+E07000085,none,78,East Hampshire
+E07000086,N/A,4422,Eastleigh
+E07000086,main,127157,Eastleigh
+E07000086,veryWell,2741,Eastleigh
+E07000086,well,1503,Eastleigh
+E07000086,notWell,506,Eastleigh
+E07000086,none,114,Eastleigh
+E07000087,N/A,2883,Fareham
+E07000087,main,109469,Fareham
+E07000087,veryWell,1244,Fareham
+E07000087,well,633,Fareham
+E07000087,notWell,229,Fareham
+E07000087,none,55,Fareham
+E07000088,N/A,2504,Gosport
+E07000088,main,77655,Gosport
+E07000088,veryWell,846,Gosport
+E07000088,well,671,Gosport
+E07000088,notWell,235,Gosport
+E07000088,none,41,Gosport
+E07000089,N/A,2988,Hart
+E07000089,main,92848,Hart
+E07000089,veryWell,2032,Hart
+E07000089,well,1144,Hart
+E07000089,notWell,336,Hart
+E07000089,none,60,Hart
+E07000091,N/A,4160,New Forest
+E07000091,main,168250,New Forest
+E07000091,veryWell,1865,New Forest
+E07000091,well,1134,New Forest
+E07000091,notWell,312,New Forest
+E07000091,none,63,New Forest
+E07000092,N/A,3786,Rushmoor
+E07000092,main,81544,Rushmoor
+E07000092,veryWell,5764,Rushmoor
+E07000092,well,5139,Rushmoor
+E07000092,notWell,2397,Rushmoor
+E07000092,none,1129,Rushmoor
+E07000093,N/A,3992,Test Valley
+E07000093,main,121171,Test Valley
+E07000093,veryWell,2731,Test Valley
+E07000093,well,1850,Test Valley
+E07000093,notWell,629,Test Valley
+E07000093,none,119,Test Valley
+E07000094,N/A,3433,Winchester
+E07000094,main,119744,Winchester
+E07000094,veryWell,2461,Winchester
+E07000094,well,1306,Winchester
+E07000094,notWell,405,Winchester
+E07000094,none,95,Winchester
+E07000095,N/A,3481,Broxbourne
+E07000095,main,86883,Broxbourne
+E07000095,veryWell,3396,Broxbourne
+E07000095,well,3451,Broxbourne
+E07000095,notWell,1584,Broxbourne
+E07000095,none,212,Broxbourne
+E07000096,N/A,5579,Dacorum
+E07000096,main,140193,Dacorum
+E07000096,veryWell,4735,Dacorum
+E07000096,well,3312,Dacorum
+E07000096,notWell,1086,Dacorum
+E07000096,none,176,Dacorum
+E07000098,N/A,3726,Hertsmere
+E07000098,main,93399,Hertsmere
+E07000098,veryWell,5464,Hertsmere
+E07000098,well,3836,Hertsmere
+E07000098,notWell,1210,Hertsmere
+E07000098,none,192,Hertsmere
+E07000099,N/A,4436,North Hertfordshire
+E07000099,main,123183,North Hertfordshire
+E07000099,veryWell,3183,North Hertfordshire
+E07000099,well,1619,North Hertfordshire
+E07000099,notWell,671,North Hertfordshire
+E07000099,none,114,North Hertfordshire
+E07000102,N/A,3025,Three Rivers
+E07000102,main,83721,Three Rivers
+E07000102,veryWell,4120,Three Rivers
+E07000102,well,2152,Three Rivers
+E07000102,notWell,659,Three Rivers
+E07000102,none,94,Three Rivers
+E07000106,N/A,3971,Canterbury
+E07000106,main,145109,Canterbury
+E07000106,veryWell,4686,Canterbury
+E07000106,well,2617,Canterbury
+E07000106,notWell,886,Canterbury
+E07000106,none,162,Canterbury
+E07000107,N/A,4931,Dartford
+E07000107,main,101365,Dartford
+E07000107,veryWell,5411,Dartford
+E07000107,well,3589,Dartford
+E07000107,notWell,1239,Dartford
+E07000107,none,218,Dartford
+E07000108,N/A,3284,Dover
+E07000108,main,109088,Dover
+E07000108,veryWell,1897,Dover
+E07000108,well,1424,Dover
+E07000108,notWell,574,Dover
+E07000108,none,143,Dover
+E07000109,N/A,3862,Gravesham
+E07000109,main,90755,Gravesham
+E07000109,veryWell,4949,Gravesham
+E07000109,well,4697,Gravesham
+E07000109,notWell,2230,Gravesham
+E07000109,none,406,Gravesham
+E07000110,N/A,6085,Maidstone
+E07000110,main,156418,Maidstone
+E07000110,veryWell,5884,Maidstone
+E07000110,well,5225,Maidstone
+E07000110,notWell,1740,Maidstone
+E07000110,none,430,Maidstone
+E07000111,N/A,3858,Sevenoaks
+E07000111,main,112707,Sevenoaks
+E07000111,veryWell,2500,Sevenoaks
+E07000111,well,1037,Sevenoaks
+E07000111,notWell,362,Sevenoaks
+E07000111,none,53,Sevenoaks
+E07000113,N/A,5198,Swale
+E07000113,main,140922,Swale
+E07000113,veryWell,2221,Swale
+E07000113,well,2288,Swale
+E07000113,notWell,902,Swale
+E07000113,none,146,Swale
+E07000114,N/A,4309,Thanet
+E07000114,main,129876,Thanet
+E07000114,veryWell,2583,Thanet
+E07000114,well,2311,Thanet
+E07000114,notWell,1234,Thanet
+E07000114,none,274,Thanet
+E07000115,N/A,4384,Tonbridge and Malling
+E07000115,main,123859,Tonbridge and Malling
+E07000115,veryWell,2244,Tonbridge and Malling
+E07000115,well,1172,Tonbridge and Malling
+E07000115,notWell,449,Tonbridge and Malling
+E07000115,none,93,Tonbridge and Malling
+E07000116,N/A,3551,Tunbridge Wells
+E07000116,main,105831,Tunbridge Wells
+E07000116,veryWell,3329,Tunbridge Wells
+E07000116,well,1883,Tunbridge Wells
+E07000116,notWell,621,Tunbridge Wells
+E07000116,none,94,Tunbridge Wells
+E07000117,N/A,3407,Burnley
+E07000117,main,83069,Burnley
+E07000117,veryWell,2208,Burnley
+E07000117,well,3231,Burnley
+E07000117,notWell,2245,Burnley
+E07000117,none,486,Burnley
+E07000118,N/A,3408,Chorley
+E07000118,main,111825,Chorley
+E07000118,veryWell,1039,Chorley
+E07000118,well,920,Chorley
+E07000118,notWell,451,Chorley
+E07000118,none,91,Chorley
+E07000121,N/A,3997,Lancaster
+E07000121,main,131571,Lancaster
+E07000121,veryWell,3510,Lancaster
+E07000121,well,2594,Lancaster
+E07000121,notWell,1103,Lancaster
+E07000121,none,159,Lancaster
+E07000122,N/A,3510,Pendle
+E07000122,main,80846,Pendle
+E07000122,veryWell,2377,Pendle
+E07000122,well,4728,Pendle
+E07000122,notWell,3471,Pendle
+E07000122,none,823,Pendle
+E07000123,N/A,5309,Preston
+E07000123,main,124868,Preston
+E07000123,veryWell,7086,Preston
+E07000123,well,6715,Preston
+E07000123,notWell,3299,Preston
+E07000123,none,558,Preston
+E07000125,N/A,2165,Rossendale
+E07000125,main,67172,Rossendale
+E07000125,veryWell,510,Rossendale
+E07000125,well,546,Rossendale
+E07000125,notWell,394,Rossendale
+E07000125,none,84,Rossendale
+E07000126,N/A,3156,South Ribble
+E07000126,main,105660,South Ribble
+E07000126,veryWell,971,South Ribble
+E07000126,well,797,South Ribble
+E07000126,notWell,375,South Ribble
+E07000126,none,76,South Ribble
+E07000127,N/A,3033,West Lancashire
+E07000127,main,110645,West Lancashire
+E07000127,veryWell,1394,West Lancashire
+E07000127,well,1530,West Lancashire
+E07000127,notWell,706,West Lancashire
+E07000127,none,121,West Lancashire
+E07000128,N/A,2859,Wyre
+E07000128,main,107709,Wyre
+E07000128,veryWell,581,Wyre
+E07000128,well,483,Wyre
+E07000128,notWell,247,Wyre
+E07000128,none,67,Wyre
+E07000129,N/A,3284,Blaby
+E07000129,main,94369,Blaby
+E07000129,veryWell,2566,Blaby
+E07000129,well,1803,Blaby
+E07000129,notWell,748,Blaby
+E07000129,none,156,Blaby
+E07000130,N/A,5300,Charnwood
+E07000130,main,166768,Charnwood
+E07000130,veryWell,5847,Charnwood
+E07000130,well,4063,Charnwood
+E07000130,notWell,1711,Charnwood
+E07000130,none,282,Charnwood
+E07000131,N/A,2767,Harborough
+E07000131,main,92200,Harborough
+E07000131,veryWell,1497,Harborough
+E07000131,well,784,Harborough
+E07000131,notWell,322,Harborough
+E07000131,none,55,Harborough
+E07000132,N/A,3270,Hinckley and Bosworth
+E07000132,main,107229,Hinckley and Bosworth
+E07000132,veryWell,1506,Hinckley and Bosworth
+E07000132,well,1112,Hinckley and Bosworth
+E07000132,notWell,451,Hinckley and Bosworth
+E07000132,none,72,Hinckley and Bosworth
+E07000133,N/A,1384,Melton
+E07000133,main,48933,Melton
+E07000133,veryWell,618,Melton
+E07000133,well,584,Melton
+E07000133,notWell,207,Melton
+E07000133,none,26,Melton
+E07000134,N/A,3220,North West Leicestershire
+E07000134,main,98440,North West Leicestershire
+E07000134,veryWell,1357,North West Leicestershire
+E07000134,well,1147,North West Leicestershire
+E07000134,notWell,480,North West Leicestershire
+E07000134,none,61,North West Leicestershire
+E07000135,N/A,1587,Oadby and Wigston
+E07000135,main,50500,Oadby and Wigston
+E07000135,veryWell,2970,Oadby and Wigston
+E07000135,well,1745,Oadby and Wigston
+E07000135,notWell,798,Oadby and Wigston
+E07000135,none,146,Oadby and Wigston
+E07000137,N/A,3262,East Lindsey
+E07000137,main,136945,East Lindsey
+E07000137,veryWell,836,East Lindsey
+E07000137,well,785,East Lindsey
+E07000137,notWell,402,East Lindsey
+E07000137,none,65,East Lindsey
+E07000138,N/A,3051,Lincoln
+E07000138,main,90922,Lincoln
+E07000138,veryWell,3777,Lincoln
+E07000138,well,3964,Lincoln
+E07000138,notWell,1805,Lincoln
+E07000138,none,295,Lincoln
+E07000139,N/A,3107,North Kesteven
+E07000139,main,112662,North Kesteven
+E07000139,veryWell,1070,North Kesteven
+E07000139,well,794,North Kesteven
+E07000139,notWell,366,North Kesteven
+E07000139,none,76,North Kesteven
+E07000140,N/A,2776,South Holland
+E07000140,main,81955,South Holland
+E07000140,veryWell,3212,South Holland
+E07000140,well,4495,South Holland
+E07000140,notWell,2380,South Holland
+E07000140,none,304,South Holland
+E07000141,N/A,3844,South Kesteven
+E07000141,main,133578,South Kesteven
+E07000141,veryWell,2506,South Kesteven
+E07000141,well,2442,South Kesteven
+E07000141,notWell,886,South Kesteven
+E07000141,none,148,South Kesteven
+E07000143,N/A,3941,Breckland
+E07000143,main,128814,Breckland
+E07000143,veryWell,2954,Breckland
+E07000143,well,3529,Breckland
+E07000143,notWell,1917,Breckland
+E07000143,none,322,Breckland
+E07000144,N/A,3383,Broadland
+E07000144,main,125893,Broadland
+E07000144,veryWell,1296,Broadland
+E07000144,well,804,Broadland
+E07000144,notWell,288,Broadland
+E07000144,none,59,Broadland
+E07000145,N/A,2856,Great Yarmouth
+E07000145,main,90758,Great Yarmouth
+E07000145,veryWell,2166,Great Yarmouth
+E07000145,well,2328,Great Yarmouth
+E07000145,notWell,1362,Great Yarmouth
+E07000145,none,278,Great Yarmouth
+E07000146,N/A,4248,Kings Lynn and West Norfolk
+E07000146,main,141439,Kings Lynn and West Norfolk
+E07000146,veryWell,3292,Kings Lynn and West Norfolk
+E07000146,well,3354,Kings Lynn and West Norfolk
+E07000146,notWell,1715,Kings Lynn and West Norfolk
+E07000146,none,277,Kings Lynn and West Norfolk
+E07000148,N/A,4094,Norwich
+E07000148,main,125783,Norwich
+E07000148,veryWell,6614,Norwich
+E07000148,well,5162,Norwich
+E07000148,notWell,2016,Norwich
+E07000148,none,253,Norwich
+E07000149,N/A,3964,South Norfolk
+E07000149,main,134429,South Norfolk
+E07000149,veryWell,1964,South Norfolk
+E07000149,well,1090,South Norfolk
+E07000149,notWell,417,South Norfolk
+E07000149,none,81,South Norfolk
+E07000163,N/A,1339,Craven
+E07000163,main,54685,Craven
+E07000163,veryWell,452,Craven
+E07000163,well,315,Craven
+E07000163,notWell,117,Craven
+E07000163,none,19,Craven
+E07000164,N/A,2173,Hambleton
+E07000164,main,87178,Hambleton
+E07000164,veryWell,623,Hambleton
+E07000164,well,469,Hambleton
+E07000164,notWell,205,Hambleton
+E07000164,none,42,Hambleton
+E07000165,N/A,4124,Harrogate
+E07000165,main,153513,Harrogate
+E07000165,veryWell,2424,Harrogate
+E07000165,well,1870,Harrogate
+E07000165,notWell,643,Harrogate
+E07000165,none,93,Harrogate
+E07000166,N/A,1351,Richmondshire
+E07000166,main,46839,Richmondshire
+E07000166,veryWell,786,Richmondshire
+E07000166,well,662,Richmondshire
+E07000166,notWell,115,Richmondshire
+E07000166,none,23,Richmondshire
+E07000167,N/A,1346,Ryedale
+E07000167,main,52203,Ryedale
+E07000167,veryWell,460,Ryedale
+E07000167,well,414,Ryedale
+E07000167,notWell,249,Ryedale
+E07000167,none,36,Ryedale
+E07000169,N/A,2878,Selby
+E07000169,main,86596,Selby
+E07000169,veryWell,981,Selby
+E07000169,well,1015,Selby
+E07000169,notWell,460,Selby
+E07000169,none,59,Selby
+E07000170,N/A,3894,Ashfield
+E07000170,main,118470,Ashfield
+E07000170,veryWell,1702,Ashfield
+E07000170,well,1565,Ashfield
+E07000170,notWell,571,Ashfield
+E07000170,none,98,Ashfield
+E07000171,N/A,3426,Bassetlaw
+E07000171,main,109625,Bassetlaw
+E07000171,veryWell,1623,Bassetlaw
+E07000171,well,1972,Bassetlaw
+E07000171,notWell,1022,Bassetlaw
+E07000171,none,134,Bassetlaw
+E07000172,N/A,3049,Broxtowe
+E07000172,main,102537,Broxtowe
+E07000172,veryWell,2730,Broxtowe
+E07000172,well,1850,Broxtowe
+E07000172,notWell,663,Broxtowe
+E07000172,none,111,Broxtowe
+E07000173,N/A,3479,Gedling
+E07000173,main,110090,Gedling
+E07000173,veryWell,1876,Gedling
+E07000173,well,1234,Gedling
+E07000173,notWell,514,Gedling
+E07000173,none,69,Gedling
+E07000175,N/A,3528,Newark and Sherwood
+E07000175,main,114535,Newark and Sherwood
+E07000175,veryWell,1969,Newark and Sherwood
+E07000175,well,2000,Newark and Sherwood
+E07000175,notWell,816,Newark and Sherwood
+E07000175,none,107,Newark and Sherwood
+E07000176,N/A,3362,Rushcliffe
+E07000176,main,112214,Rushcliffe
+E07000176,veryWell,2209,Rushcliffe
+E07000176,well,915,Rushcliffe
+E07000176,notWell,331,Rushcliffe
+E07000176,none,47,Rushcliffe
+E07000177,N/A,5526,Cherwell
+E07000177,main,141071,Cherwell
+E07000177,veryWell,6664,Cherwell
+E07000177,well,5577,Cherwell
+E07000177,notWell,1882,Cherwell
+E07000177,none,299,Cherwell
+E07000178,N/A,4316,Oxford
+E07000178,main,129117,Oxford
+E07000178,veryWell,16087,Oxford
+E07000178,well,8914,Oxford
+E07000178,notWell,3129,Oxford
+E07000178,none,477,Oxford
+E07000179,N/A,4615,South Oxfordshire
+E07000179,main,137542,South Oxfordshire
+E07000179,veryWell,3931,South Oxfordshire
+E07000179,well,2153,South Oxfordshire
+E07000179,notWell,721,South Oxfordshire
+E07000179,none,123,South Oxfordshire
+E07000180,N/A,4537,Vale of White Horse
+E07000180,main,126892,Vale of White Horse
+E07000180,veryWell,4586,Vale of White Horse
+E07000180,well,2143,Vale of White Horse
+E07000180,notWell,648,Vale of White Horse
+E07000180,none,107,Vale of White Horse
+E07000181,N/A,3404,West Oxfordshire
+E07000181,main,106785,West Oxfordshire
+E07000181,veryWell,2157,West Oxfordshire
+E07000181,well,1393,West Oxfordshire
+E07000181,notWell,431,West Oxfordshire
+E07000181,none,68,West Oxfordshire
+E07000187,N/A,3191,Mendip
+E07000187,main,109713,Mendip
+E07000187,veryWell,1587,Mendip
+E07000187,well,1173,Mendip
+E07000187,notWell,356,Mendip
+E07000187,none,69,Mendip
+E07000188,N/A,3462,Sedgemoor
+E07000188,main,116143,Sedgemoor
+E07000188,veryWell,2291,Sedgemoor
+E07000188,well,2382,Sedgemoor
+E07000188,notWell,891,Sedgemoor
+E07000188,none,174,Sedgemoor
+E07000189,N/A,4817,South Somerset
+E07000189,main,160744,South Somerset
+E07000189,veryWell,3084,South Somerset
+E07000189,well,2725,South Somerset
+E07000189,notWell,1132,South Somerset
+E07000189,none,169,South Somerset
+E07000192,N/A,3339,Cannock Chase
+E07000192,main,95458,Cannock Chase
+E07000192,veryWell,762,Cannock Chase
+E07000192,well,650,Cannock Chase
+E07000192,notWell,257,Cannock Chase
+E07000192,none,53,Cannock Chase
+E07000193,N/A,4070,East Staffordshire
+E07000193,main,107976,East Staffordshire
+E07000193,veryWell,4275,East Staffordshire
+E07000193,well,5278,East Staffordshire
+E07000193,notWell,2094,East Staffordshire
+E07000193,none,326,East Staffordshire
+E07000194,N/A,2995,Lichfield
+E07000194,main,101315,Lichfield
+E07000194,veryWell,1031,Lichfield
+E07000194,well,752,Lichfield
+E07000194,notWell,290,Lichfield
+E07000194,none,50,Lichfield
+E07000195,N/A,3370,Newcastle-under-Lyme
+E07000195,main,115774,Newcastle-under-Lyme
+E07000195,veryWell,2133,Newcastle-under-Lyme
+E07000195,well,1442,Newcastle-under-Lyme
+E07000195,notWell,502,Newcastle-under-Lyme
+E07000195,none,78,Newcastle-under-Lyme
+E07000196,N/A,2823,South Staffordshire
+E07000196,main,106341,South Staffordshire
+E07000196,veryWell,629,South Staffordshire
+E07000196,well,414,South Staffordshire
+E07000196,notWell,213,South Staffordshire
+E07000196,none,49,South Staffordshire
+E07000197,N/A,3971,Stafford
+E07000197,main,128218,Stafford
+E07000197,veryWell,2481,Stafford
+E07000197,well,1586,Stafford
+E07000197,notWell,522,Stafford
+E07000197,none,89,Stafford
+E07000199,N/A,2594,Tamworth
+E07000199,main,72762,Tamworth
+E07000199,veryWell,1393,Tamworth
+E07000199,well,1433,Tamworth
+E07000199,notWell,405,Tamworth
+E07000199,none,57,Tamworth
+E07000200,N/A,2288,Babergh
+E07000200,main,88494,Babergh
+E07000200,veryWell,807,Babergh
+E07000200,well,547,Babergh
+E07000200,notWell,174,Babergh
+E07000200,none,31,Babergh
+E07000203,N/A,2634,Mid Suffolk
+E07000203,main,98582,Mid Suffolk
+E07000203,veryWell,766,Mid Suffolk
+E07000203,well,498,Mid Suffolk
+E07000203,notWell,197,Mid Suffolk
+E07000203,none,22,Mid Suffolk
+E07000207,N/A,4768,Elmbridge
+E07000207,main,124800,Elmbridge
+E07000207,veryWell,5395,Elmbridge
+E07000207,well,2782,Elmbridge
+E07000207,notWell,896,Elmbridge
+E07000207,none,113,Elmbridge
+E07000208,N/A,2617,Epsom and Ewell
+E07000208,main,71308,Epsom and Ewell
+E07000208,veryWell,3804,Epsom and Ewell
+E07000208,well,2187,Epsom and Ewell
+E07000208,notWell,856,Epsom and Ewell
+E07000208,none,166,Epsom and Ewell
+E07000209,N/A,3924,Guildford
+E07000209,main,128423,Guildford
+E07000209,veryWell,6639,Guildford
+E07000209,well,3557,Guildford
+E07000209,notWell,986,Guildford
+E07000209,none,121,Guildford
+E07000210,N/A,2318,Mole Valley
+E07000210,main,81957,Mole Valley
+E07000210,veryWell,1722,Mole Valley
+E07000210,well,1001,Mole Valley
+E07000210,notWell,331,Mole Valley
+E07000210,none,57,Mole Valley
+E07000211,N/A,5277,Reigate and Banstead
+E07000211,main,136506,Reigate and Banstead
+E07000211,veryWell,5333,Reigate and Banstead
+E07000211,well,2690,Reigate and Banstead
+E07000211,notWell,894,Reigate and Banstead
+E07000211,none,146,Reigate and Banstead
+E07000212,N/A,2842,Runnymede
+E07000212,main,78275,Runnymede
+E07000212,veryWell,4045,Runnymede
+E07000212,well,2160,Runnymede
+E07000212,notWell,651,Runnymede
+E07000212,none,106,Runnymede
+E07000213,N/A,3583,Spelthorne
+E07000213,main,89348,Spelthorne
+E07000213,veryWell,5501,Spelthorne
+E07000213,well,3272,Spelthorne
+E07000213,notWell,1094,Spelthorne
+E07000213,none,155,Spelthorne
+E07000215,N/A,2919,Tandridge
+E07000215,main,82330,Tandridge
+E07000215,veryWell,1614,Tandridge
+E07000215,well,735,Tandridge
+E07000215,notWell,234,Tandridge
+E07000215,none,44,Tandridge
+E07000216,N/A,3647,Waverley
+E07000216,main,120024,Waverley
+E07000216,veryWell,2657,Waverley
+E07000216,well,1426,Waverley
+E07000216,notWell,392,Waverley
+E07000216,none,83,Waverley
+E07000217,N/A,3682,Woking
+E07000217,main,89042,Woking
+E07000217,veryWell,5700,Woking
+E07000217,well,3754,Woking
+E07000217,notWell,1485,Woking
+E07000217,none,279,Woking
+E07000218,N/A,1870,North Warwickshire
+E07000218,main,61897,North Warwickshire
+E07000218,veryWell,621,North Warwickshire
+E07000218,well,486,North Warwickshire
+E07000218,notWell,130,North Warwickshire
+E07000218,none,32,North Warwickshire
+E07000219,N/A,4598,Nuneaton and Bedworth
+E07000219,main,120055,Nuneaton and Bedworth
+E07000219,veryWell,4113,Nuneaton and Bedworth
+E07000219,well,3690,Nuneaton and Bedworth
+E07000219,notWell,1460,Nuneaton and Bedworth
+E07000219,none,282,Nuneaton and Bedworth
+E07000220,N/A,3706,Rugby
+E07000220,main,97906,Rugby
+E07000220,veryWell,5661,Rugby
+E07000220,well,5158,Rugby
+E07000220,notWell,1716,Rugby
+E07000220,none,215,Rugby
+E07000221,N/A,3587,Stratford-on-Avon
+E07000221,main,126693,Stratford-on-Avon
+E07000221,veryWell,2281,Stratford-on-Avon
+E07000221,well,1527,Stratford-on-Avon
+E07000221,notWell,547,Stratford-on-Avon
+E07000221,none,90,Stratford-on-Avon
+E07000222,N/A,4409,Warwick
+E07000222,main,131957,Warwick
+E07000222,veryWell,7202,Warwick
+E07000222,well,3390,Warwick
+E07000222,notWell,1278,Warwick
+E07000222,none,217,Warwick
+E07000223,N/A,1820,Adur
+E07000223,main,60751,Adur
+E07000223,veryWell,1009,Adur
+E07000223,well,628,Adur
+E07000223,notWell,291,Adur
+E07000223,none,45,Adur
+E07000224,N/A,4223,Arun
+E07000224,main,151197,Arun
+E07000224,veryWell,3542,Arun
+E07000224,well,3683,Arun
+E07000224,notWell,1905,Arun
+E07000224,none,339,Arun
+E07000225,N/A,3094,Chichester
+E07000225,main,116962,Chichester
+E07000225,veryWell,2005,Chichester
+E07000225,well,1352,Chichester
+E07000225,notWell,542,Chichester
+E07000225,none,113,Chichester
+E07000226,N/A,4579,Crawley
+E07000226,main,96070,Crawley
+E07000226,veryWell,8135,Crawley
+E07000226,well,6784,Crawley
+E07000226,notWell,2512,Crawley
+E07000226,none,412,Crawley
+E07000227,N/A,4230,Horsham
+E07000227,main,137720,Horsham
+E07000227,veryWell,2844,Horsham
+E07000227,well,1435,Horsham
+E07000227,notWell,469,Horsham
+E07000227,none,80,Horsham
+E07000228,N/A,4736,Mid Sussex
+E07000228,main,141876,Mid Sussex
+E07000228,veryWell,3530,Mid Sussex
+E07000228,well,1726,Mid Sussex
+E07000228,notWell,608,Mid Sussex
+E07000228,none,93,Mid Sussex
+E07000229,N/A,3205,Worthing
+E07000229,main,102364,Worthing
+E07000229,veryWell,2990,Worthing
+E07000229,well,1969,Worthing
+E07000229,notWell,698,Worthing
+E07000229,none,112,Worthing
+E07000234,N/A,2935,Bromsgrove
+E07000234,main,94769,Bromsgrove
+E07000234,veryWell,902,Bromsgrove
+E07000234,well,366,Bromsgrove
+E07000234,notWell,179,Bromsgrove
+E07000234,none,32,Bromsgrove
+E07000235,N/A,1756,Malvern Hills
+E07000235,main,76251,Malvern Hills
+E07000235,veryWell,757,Malvern Hills
+E07000235,well,481,Malvern Hills
+E07000235,notWell,192,Malvern Hills
+E07000235,none,49,Malvern Hills
+E07000236,N/A,2924,Redditch
+E07000236,main,77713,Redditch
+E07000236,veryWell,2370,Redditch
+E07000236,well,2866,Redditch
+E07000236,notWell,1017,Redditch
+E07000236,none,146,Redditch
+E07000237,N/A,3180,Worcester
+E07000237,main,92870,Worcester
+E07000237,veryWell,3534,Worcester
+E07000237,well,3043,Worcester
+E07000237,notWell,1069,Worcester
+E07000237,none,174,Worcester
+E07000238,N/A,3597,Wychavon
+E07000238,main,122824,Wychavon
+E07000238,veryWell,2268,Wychavon
+E07000238,well,2608,Wychavon
+E07000238,notWell,1019,Wychavon
+E07000238,none,176,Wychavon
+E07000239,N/A,2746,Wyre Forest
+E07000239,main,96531,Wyre Forest
+E07000239,veryWell,968,Wyre Forest
+E07000239,well,972,Wyre Forest
+E07000239,notWell,339,Wyre Forest
+E07000239,none,53,Wyre Forest
+E07000240,N/A,4965,St Albans
+E07000240,main,134129,St Albans
+E07000240,veryWell,5310,St Albans
+E07000240,well,2565,St Albans
+E07000240,notWell,1026,St Albans
+E07000240,none,168,St Albans
+E07000241,N/A,3862,Welwyn Hatfield
+E07000241,main,103815,Welwyn Hatfield
+E07000241,veryWell,6275,Welwyn Hatfield
+E07000241,well,4339,Welwyn Hatfield
+E07000241,notWell,1396,Welwyn Hatfield
+E07000241,none,147,Welwyn Hatfield
+E07000242,N/A,4879,East Hertfordshire
+E07000242,main,138584,East Hertfordshire
+E07000242,veryWell,3888,East Hertfordshire
+E07000242,well,2077,East Hertfordshire
+E07000242,notWell,633,East Hertfordshire
+E07000242,none,100,East Hertfordshire
+E07000243,N/A,3294,Stevenage
+E07000243,main,79174,Stevenage
+E07000243,veryWell,3732,Stevenage
+E07000243,well,2370,Stevenage
+E07000243,notWell,802,Stevenage
+E07000243,none,123,Stevenage
+E07000244,N/A,6060,East Suffolk
+E07000244,main,235021,East Suffolk
+E07000244,veryWell,2425,East Suffolk
+E07000244,well,1752,East Suffolk
+E07000244,notWell,693,East Suffolk
+E07000244,none,107,East Suffolk
+E07000245,N/A,5817,West Suffolk
+E07000245,main,164367,West Suffolk
+E07000245,veryWell,4520,West Suffolk
+E07000245,well,3765,West Suffolk
+E07000245,notWell,1295,West Suffolk
+E07000245,none,184,West Suffolk
+E07000246,N/A,4290,Somerset West and Taunton
+E07000246,main,146313,Somerset West and Taunton
+E07000246,veryWell,3385,Somerset West and Taunton
+E07000246,well,2489,Somerset West and Taunton
+E07000246,notWell,865,Somerset West and Taunton
+E07000246,none,103,Somerset West and Taunton
+E08000002,N/A,6639,Bury
+E08000002,main,174961,Bury
+E08000002,veryWell,4485,Bury
+E08000002,well,4590,Bury
+E08000002,notWell,2631,Bury
+E08000002,none,545,Bury
+E08000003,N/A,20457,Manchester
+E08000003,main,434289,Manchester
+E08000003,veryWell,40168,Manchester
+E08000003,well,35592,Manchester
+E08000003,notWell,17854,Manchester
+E08000003,none,3578,Manchester
+E08000004,N/A,9358,Oldham
+E08000004,main,207898,Oldham
+E08000004,veryWell,6692,Oldham
+E08000004,well,9247,Oldham
+E08000004,notWell,7246,Oldham
+E08000004,none,1647,Oldham
+E08000005,N/A,8611,Rochdale
+E08000005,main,194800,Rochdale
+E08000005,veryWell,6225,Rochdale
+E08000005,well,7872,Rochdale
+E08000005,notWell,5278,Rochdale
+E08000005,none,987,Rochdale
+E08000006,N/A,10553,Salford
+E08000006,main,229864,Salford
+E08000006,veryWell,12290,Salford
+E08000006,well,10804,Salford
+E08000006,notWell,5532,Salford
+E08000006,none,879,Salford
+E08000007,N/A,9733,Stockport
+E08000007,main,272788,Stockport
+E08000007,veryWell,5746,Stockport
+E08000007,well,4107,Stockport
+E08000007,notWell,2010,Stockport
+E08000007,none,389,Stockport
+E08000008,N/A,8029,Tameside
+E08000008,main,209879,Tameside
+E08000008,veryWell,4738,Tameside
+E08000008,well,4819,Tameside
+E08000008,notWell,2991,Tameside
+E08000008,none,615,Tameside
+E08000009,N/A,7669,Trafford
+E08000009,main,211103,Trafford
+E08000009,veryWell,8555,Trafford
+E08000009,well,5017,Trafford
+E08000009,notWell,2349,Trafford
+E08000009,none,359,Trafford
+E08000010,N/A,10229,Wigan
+E08000010,main,307912,Wigan
+E08000010,veryWell,4365,Wigan
+E08000010,well,4450,Wigan
+E08000010,notWell,2067,Wigan
+E08000010,none,307,Wigan
+E08000011,N/A,5757,Knowsley
+E08000011,main,144261,Knowsley
+E08000011,veryWell,1961,Knowsley
+E08000011,well,1631,Knowsley
+E08000011,notWell,760,Knowsley
+E08000011,none,149,Knowsley
+E08000012,N/A,15648,Liverpool
+E08000012,main,425452,Liverpool
+E08000012,veryWell,17762,Liverpool
+E08000012,well,16314,Liverpool
+E08000012,notWell,9306,Liverpool
+E08000012,none,1606,Liverpool
+E08000013,N/A,5641,St. Helens
+E08000013,main,172666,St. Helens
+E08000013,veryWell,1860,St. Helens
+E08000013,well,1962,St. Helens
+E08000013,notWell,948,St. Helens
+E08000013,none,171,St. Helens
+E08000014,N/A,7816,Sefton
+E08000014,main,261763,Sefton
+E08000014,veryWell,3519,Sefton
+E08000014,well,3790,Sefton
+E08000014,notWell,2036,Sefton
+E08000014,none,310,Sefton
+E08000015,N/A,9511,Wirral
+E08000015,main,303454,Wirral
+E08000015,veryWell,3326,Wirral
+E08000015,well,2378,Wirral
+E08000015,notWell,1242,Wirral
+E08000015,none,288,Wirral
+E08000016,N/A,7867,Barnsley
+E08000016,main,226571,Barnsley
+E08000016,veryWell,3626,Barnsley
+E08000016,well,4439,Barnsley
+E08000016,notWell,1793,Barnsley
+E08000016,none,276,Barnsley
+E08000017,N/A,10133,Doncaster
+E08000017,main,276387,Doncaster
+E08000017,veryWell,7260,Doncaster
+E08000017,well,9287,Doncaster
+E08000017,notWell,4295,Doncaster
+E08000017,none,742,Doncaster
+E08000018,N/A,8500,Rotherham
+E08000018,main,246654,Rotherham
+E08000018,veryWell,3900,Rotherham
+E08000018,well,4062,Rotherham
+E08000018,notWell,2292,Rotherham
+E08000018,none,399,Rotherham
+E08000021,N/A,9162,Newcastle upon Tyne
+E08000021,main,260069,Newcastle upon Tyne
+E08000021,veryWell,13352,Newcastle upon Tyne
+E08000021,well,10933,Newcastle upon Tyne
+E08000021,notWell,5653,Newcastle upon Tyne
+E08000021,none,956,Newcastle upon Tyne
+E08000022,N/A,6397,North Tyneside
+E08000022,main,197592,North Tyneside
+E08000022,veryWell,2397,North Tyneside
+E08000022,well,1487,North Tyneside
+E08000022,notWell,896,North Tyneside
+E08000022,none,199,North Tyneside
+E08000023,N/A,4465,South Tyneside
+E08000023,main,140074,South Tyneside
+E08000023,veryWell,1298,South Tyneside
+E08000023,well,1114,South Tyneside
+E08000023,notWell,677,South Tyneside
+E08000023,none,148,South Tyneside
+E08000024,N/A,7935,Sunderland
+E08000024,main,259351,Sunderland
+E08000024,veryWell,3125,Sunderland
+E08000024,well,2357,Sunderland
+E08000024,notWell,1152,Sunderland
+E08000024,none,253,Sunderland
+E08000025,N/A,44012,Birmingham
+E08000025,main,929445,Birmingham
+E08000025,veryWell,57964,Birmingham
+E08000025,well,62499,Birmingham
+E08000025,notWell,42140,Birmingham
+E08000025,none,8859,Birmingham
+E08000026,N/A,12112,Coventry
+E08000026,main,274880,Coventry
+E08000026,veryWell,25437,Coventry
+E08000026,well,21505,Coventry
+E08000026,notWell,9874,Coventry
+E08000026,none,1516,Coventry
+E08000027,N/A,10618,Dudley
+E08000027,main,298942,Dudley
+E08000027,veryWell,4968,Dudley
+E08000027,well,5211,Dudley
+E08000027,notWell,3097,Dudley
+E08000027,none,652,Dudley
+E08000028,N/A,13084,Sandwell
+E08000028,main,274709,Sandwell
+E08000028,veryWell,17226,Sandwell
+E08000028,well,20420,Sandwell
+E08000028,notWell,13420,Sandwell
+E08000028,none,2973,Sandwell
+E08000029,N/A,6709,Solihull
+E08000029,main,200119,Solihull
+E08000029,veryWell,5435,Solihull
+E08000029,well,2617,Solihull
+E08000029,notWell,1151,Solihull
+E08000029,none,208,Solihull
+E08000030,N/A,10718,Walsall
+E08000030,main,246705,Walsall
+E08000030,veryWell,9413,Walsall
+E08000030,well,9780,Walsall
+E08000030,notWell,6248,Walsall
+E08000030,none,1260,Walsall
+E08000031,N/A,9554,Wolverhampton
+E08000031,main,215986,Wolverhampton
+E08000031,veryWell,13082,Wolverhampton
+E08000031,well,14738,Wolverhampton
+E08000031,notWell,8677,Wolverhampton
+E08000031,none,1691,Wolverhampton
+E08000032,N/A,21293,Bradford
+E08000032,main,459904,Bradford
+E08000032,veryWell,18591,Bradford
+E08000032,well,24829,Bradford
+E08000032,notWell,17951,Bradford
+E08000032,none,3843,Bradford
+E08000033,N/A,6571,Calderdale
+E08000033,main,190762,Calderdale
+E08000033,veryWell,3244,Calderdale
+E08000033,well,3313,Calderdale
+E08000033,notWell,2267,Calderdale
+E08000033,none,474,Calderdale
+E08000034,N/A,14721,Kirklees
+E08000034,main,386069,Kirklees
+E08000034,veryWell,10235,Kirklees
+E08000034,well,12192,Kirklees
+E08000034,notWell,8405,Kirklees
+E08000034,none,1592,Kirklees
+E08000035,N/A,27561,Leeds
+E08000035,main,713111,Leeds
+E08000035,veryWell,30199,Leeds
+E08000035,well,26188,Leeds
+E08000035,notWell,12776,Leeds
+E08000035,none,2118,Leeds
+E08000036,N/A,11878,Wakefield
+E08000036,main,322562,Wakefield
+E08000036,veryWell,6706,Wakefield
+E08000036,well,7658,Wakefield
+E08000036,notWell,3885,Wakefield
+E08000036,none,681,Wakefield
+E08000037,N/A,5845,Gateshead
+E08000037,main,182293,Gateshead
+E08000037,veryWell,3187,Gateshead
+E08000037,well,2864,Gateshead
+E08000037,notWell,1581,Gateshead
+E08000037,none,380,Gateshead
+E09000001,N/A,135,City of London
+E09000001,main,6624,City of London
+E09000001,veryWell,1305,City of London
+E09000001,well,386,City of London
+E09000001,notWell,116,City of London
+E09000001,none,19,City of London
+E09000002,N/A,9970,Barking and Dagenham
+E09000002,main,158652,Barking and Dagenham
+E09000002,veryWell,19341,Barking and Dagenham
+E09000002,well,20302,Barking and Dagenham
+E09000002,notWell,9296,Barking and Dagenham
+E09000002,none,1309,Barking and Dagenham
+E09000003,N/A,14242,Barnet
+E09000003,main,289057,Barnet
+E09000003,veryWell,38886,Barnet
+E09000003,well,31657,Barnet
+E09000003,notWell,13502,Barnet
+E09000003,none,2000,Barnet
+E09000004,N/A,8835,Bexley
+E09000004,main,214970,Bexley
+E09000004,veryWell,11147,Bexley
+E09000004,well,7639,Bexley
+E09000004,notWell,3324,Bexley
+E09000004,none,557,Bexley
+E09000005,N/A,12045,Brent
+E09000005,main,217371,Brent
+E09000005,veryWell,43039,Brent
+E09000005,well,42680,Brent
+E09000005,notWell,20618,Brent
+E09000005,none,4063,Brent
+E09000006,N/A,11383,Bromley
+E09000006,main,292904,Bromley
+E09000006,veryWell,14952,Bromley
+E09000006,well,7604,Bromley
+E09000006,notWell,2707,Bromley
+E09000006,none,442,Bromley
+E09000007,N/A,6102,Camden
+E09000007,main,160655,Camden
+E09000007,veryWell,25430,Camden
+E09000007,well,11891,Camden
+E09000007,notWell,5198,Camden
+E09000007,none,860,Camden
+E09000008,N/A,15148,Croydon
+E09000008,main,315336,Croydon
+E09000008,veryWell,27514,Croydon
+E09000008,well,21728,Croydon
+E09000008,notWell,9490,Croydon
+E09000008,none,1504,Croydon
+E09000009,N/A,12761,Ealing
+E09000009,main,244855,Ealing
+E09000009,veryWell,45696,Ealing
+E09000009,well,40933,Ealing
+E09000009,notWell,19432,Ealing
+E09000009,none,3440,Ealing
+E09000010,N/A,12344,Enfield
+E09000010,main,242839,Enfield
+E09000010,veryWell,25292,Enfield
+E09000010,well,28460,Enfield
+E09000010,notWell,17997,Enfield
+E09000010,none,3052,Enfield
+E09000011,N/A,11476,Greenwich
+E09000011,main,227031,Greenwich
+E09000011,veryWell,24449,Greenwich
+E09000011,well,16854,Greenwich
+E09000011,notWell,7724,Greenwich
+E09000011,none,1534,Greenwich
+E09000013,N/A,5519,Hammersmith and Fulham
+E09000013,main,139670,Hammersmith and Fulham
+E09000013,veryWell,22711,Hammersmith and Fulham
+E09000013,well,10975,Hammersmith and Fulham
+E09000013,notWell,3737,Hammersmith and Fulham
+E09000013,none,545,Hammersmith and Fulham
+E09000014,N/A,9112,Haringey
+E09000014,main,185666,Haringey
+E09000014,veryWell,25880,Haringey
+E09000014,well,24854,Haringey
+E09000014,notWell,15762,Haringey
+E09000014,none,2970,Haringey
+E09000015,N/A,9359,Harrow
+E09000015,main,174443,Harrow
+E09000015,veryWell,34239,Harrow
+E09000015,well,29168,Harrow
+E09000015,notWell,11974,Harrow
+E09000015,none,2020,Harrow
+E09000016,N/A,9770,Havering
+E09000016,main,227346,Havering
+E09000016,veryWell,11539,Havering
+E09000016,well,9198,Havering
+E09000016,notWell,3567,Havering
+E09000016,none,632,Havering
+E09000017,N/A,11670,Hillingdon
+E09000017,main,229263,Hillingdon
+E09000017,veryWell,30038,Hillingdon
+E09000017,well,23689,Hillingdon
+E09000017,notWell,9509,Hillingdon
+E09000017,none,1739,Hillingdon
+E09000018,N/A,10773,Hounslow
+E09000018,main,198853,Hounslow
+E09000018,veryWell,36348,Hounslow
+E09000018,well,28032,Hounslow
+E09000018,notWell,11898,Hounslow
+E09000018,none,2277,Hounslow
+E09000019,N/A,6951,Islington
+E09000019,main,169831,Islington
+E09000019,veryWell,22659,Islington
+E09000019,well,10992,Islington
+E09000019,notWell,5286,Islington
+E09000019,none,870,Islington
+E09000020,N/A,3727,Kensington and Chelsea
+E09000020,main,106682,Kensington and Chelsea
+E09000020,veryWell,20887,Kensington and Chelsea
+E09000020,well,8669,Kensington and Chelsea
+E09000020,notWell,2998,Kensington and Chelsea
+E09000020,none,412,Kensington and Chelsea
+E09000021,N/A,5562,Kingston upon Thames
+E09000021,main,134395,Kingston upon Thames
+E09000021,veryWell,14243,Kingston upon Thames
+E09000021,well,9451,Kingston upon Thames
+E09000021,notWell,3880,Kingston upon Thames
+E09000021,none,533,Kingston upon Thames
+E09000022,N/A,9357,Lambeth
+E09000022,main,253317,Lambeth
+E09000022,veryWell,25584,Lambeth
+E09000022,well,18080,Lambeth
+E09000022,notWell,9452,Lambeth
+E09000022,none,1865,Lambeth
+E09000023,N/A,11660,Lewisham
+E09000023,main,242028,Lewisham
+E09000023,veryWell,22055,Lewisham
+E09000023,well,15373,Lewisham
+E09000023,notWell,7987,Lewisham
+E09000023,none,1450,Lewisham
+E09000024,N/A,8220,Merton
+E09000024,main,162563,Merton
+E09000024,veryWell,20874,Merton
+E09000024,well,15867,Merton
+E09000024,notWell,6715,Merton
+E09000024,none,948,Merton
+E09000025,N/A,14437,Newham
+E09000025,main,220022,Newham
+E09000025,veryWell,43497,Newham
+E09000025,well,45802,Newham
+E09000025,notWell,23756,Newham
+E09000025,none,3521,Newham
+E09000026,N/A,12623,Redbridge
+E09000026,main,218924,Redbridge
+E09000026,veryWell,32968,Redbridge
+E09000026,well,30036,Redbridge
+E09000026,notWell,13705,Redbridge
+E09000026,none,2004,Redbridge
+E09000027,N/A,6390,Richmond upon Thames
+E09000027,main,167514,Richmond upon Thames
+E09000027,veryWell,13209,Richmond upon Thames
+E09000027,well,5731,Richmond upon Thames
+E09000027,notWell,2087,Richmond upon Thames
+E09000027,none,347,Richmond upon Thames
+E09000028,N/A,9909,Southwark
+E09000028,main,244002,Southwark
+E09000028,veryWell,27450,Southwark
+E09000028,well,16058,Southwark
+E09000028,notWell,8603,Southwark
+E09000028,none,1616,Southwark
+E09000029,N/A,7385,Sutton
+E09000029,main,173379,Sutton
+E09000029,veryWell,15289,Sutton
+E09000029,well,9709,Sutton
+E09000029,notWell,3363,Sutton
+E09000029,none,514,Sutton
+E09000030,N/A,11552,Tower Hamlets
+E09000030,main,218131,Tower Hamlets
+E09000030,veryWell,37285,Tower Hamlets
+E09000030,well,24671,Tower Hamlets
+E09000030,notWell,15566,Tower Hamlets
+E09000030,none,3101,Tower Hamlets
+E09000031,N/A,11788,Waltham Forest
+E09000031,main,206863,Waltham Forest
+E09000031,veryWell,22586,Waltham Forest
+E09000031,well,24055,Waltham Forest
+E09000031,notWell,11456,Waltham Forest
+E09000031,none,1678,Waltham Forest
+E09000032,N/A,11662,Wandsworth
+E09000032,main,261751,Wandsworth
+E09000032,veryWell,30641,Wandsworth
+E09000032,well,16100,Wandsworth
+E09000032,notWell,6292,Wandsworth
+E09000032,none,1060,Wandsworth
+E09000033,N/A,5249,Westminster
+E09000033,main,146375,Westminster
+E09000033,veryWell,30418,Westminster
+E09000033,well,14911,Westminster
+E09000033,notWell,6296,Westminster
+E09000033,none,988,Westminster
+W06000001,N/A,1792,Isle of Anglesey
+W06000001,main,66462,Isle of Anglesey
+W06000001,veryWell,305,Isle of Anglesey
+W06000001,well,196,Isle of Anglesey
+W06000001,notWell,101,Isle of Anglesey
+W06000001,none,22,Isle of Anglesey
+W06000002,N/A,3086,Gwynedd
+W06000002,main,111446,Gwynedd
+W06000002,veryWell,1437,Gwynedd
+W06000002,well,935,Gwynedd
+W06000002,notWell,413,Gwynedd
+W06000002,none,76,Gwynedd
+W06000003,N/A,2936,Conwy
+W06000003,main,109757,Conwy
+W06000003,veryWell,1018,Conwy
+W06000003,well,662,Conwy
+W06000003,notWell,304,Conwy
+W06000003,none,64,Conwy
+W06000004,N/A,2755,Denbighshire
+W06000004,main,91451,Denbighshire
+W06000004,veryWell,737,Denbighshire
+W06000004,well,574,Denbighshire
+W06000004,notWell,241,Denbighshire
+W06000004,none,59,Denbighshire
+W06000005,N/A,4400,Flintshire
+W06000005,main,145037,Flintshire
+W06000005,veryWell,1954,Flintshire
+W06000005,well,2142,Flintshire
+W06000005,notWell,1197,Flintshire
+W06000005,none,230,Flintshire
+W06000006,N/A,4032,Wrexham
+W06000006,main,124402,Wrexham
+W06000006,veryWell,2307,Wrexham
+W06000006,well,2627,Wrexham
+W06000006,notWell,1490,Wrexham
+W06000006,none,258,Wrexham
+W06000008,N/A,1564,Ceredigion
+W06000008,main,67848,Ceredigion
+W06000008,veryWell,1208,Ceredigion
+W06000008,well,602,Ceredigion
+W06000008,notWell,225,Ceredigion
+W06000008,none,27,Ceredigion
+W06000009,N/A,3152,Pembrokeshire
+W06000009,main,118571,Pembrokeshire
+W06000009,veryWell,780,Pembrokeshire
+W06000009,well,500,Pembrokeshire
+W06000009,notWell,285,Pembrokeshire
+W06000009,none,72,Pembrokeshire
+W06000010,N/A,5178,Carmarthenshire
+W06000010,main,178287,Carmarthenshire
+W06000010,veryWell,1695,Carmarthenshire
+W06000010,well,1425,Carmarthenshire
+W06000010,notWell,1041,Carmarthenshire
+W06000010,none,272,Carmarthenshire
+W06000011,N/A,6601,Swansea
+W06000011,main,220870,Swansea
+W06000011,veryWell,4669,Swansea
+W06000011,well,3852,Swansea
+W06000011,notWell,2092,Swansea
+W06000011,none,406,Swansea
+W06000012,N/A,3969,Neath Port Talbot
+W06000012,main,136319,Neath Port Talbot
+W06000012,veryWell,907,Neath Port Talbot
+W06000012,well,633,Neath Port Talbot
+W06000012,notWell,359,Neath Port Talbot
+W06000012,none,103,Neath Port Talbot
+W06000013,N/A,4194,Bridgend
+W06000013,main,138807,Bridgend
+W06000013,veryWell,1100,Bridgend
+W06000013,well,859,Bridgend
+W06000013,notWell,421,Bridgend
+W06000013,none,105,Bridgend
+W06000014,N/A,3859,Vale of Glamorgan
+W06000014,main,125798,Vale of Glamorgan
+W06000014,veryWell,1348,Vale of Glamorgan
+W06000014,well,615,Vale of Glamorgan
+W06000014,notWell,248,Vale of Glamorgan
+W06000014,none,71,Vale of Glamorgan
+W06000015,N/A,11068,Cardiff
+W06000015,main,320150,Cardiff
+W06000015,veryWell,13717,Cardiff
+W06000015,well,10673,Cardiff
+W06000015,notWell,5698,Cardiff
+W06000015,none,1002,Cardiff
+W06000016,N/A,7333,Rhondda Cynon Taf
+W06000016,main,226867,Rhondda Cynon Taf
+W06000016,veryWell,1642,Rhondda Cynon Taf
+W06000016,well,1136,Rhondda Cynon Taf
+W06000016,notWell,554,Rhondda Cynon Taf
+W06000016,none,118,Rhondda Cynon Taf
+W06000018,N/A,5265,Caerphilly
+W06000018,main,168653,Caerphilly
+W06000018,veryWell,950,Caerphilly
+W06000018,well,694,Caerphilly
+W06000018,notWell,316,Caerphilly
+W06000018,none,75,Caerphilly
+W06000019,N/A,2108,Blaenau Gwent
+W06000019,main,63594,Blaenau Gwent
+W06000019,veryWell,429,Blaenau Gwent
+W06000019,well,464,Blaenau Gwent
+W06000019,notWell,254,Blaenau Gwent
+W06000019,none,55,Blaenau Gwent
+W06000020,N/A,2896,Torfaen
+W06000020,main,88059,Torfaen
+W06000020,veryWell,565,Torfaen
+W06000020,well,515,Torfaen
+W06000020,notWell,182,Torfaen
+W06000020,none,58,Torfaen
+W06000021,N/A,2267,Monmouthshire
+W06000021,main,89231,Monmouthshire
+W06000021,veryWell,786,Monmouthshire
+W06000021,well,489,Monmouthshire
+W06000021,notWell,159,Monmouthshire
+W06000021,none,26,Monmouthshire
+W06000022,N/A,5715,Newport
+W06000022,main,143840,Newport
+W06000022,veryWell,3911,Newport
+W06000022,well,3807,Newport
+W06000022,notWell,1962,Newport
+W06000022,none,356,Newport
+W06000023,N/A,3267,Powys
+W06000023,main,127410,Powys
+E06000007,N/A,6272,Warrington
+E06000007,main,193572,Warrington
+E06000007,veryWell,4783,Warrington
+E06000007,well,4339,Warrington
+E06000007,notWell,1762,Warrington
+E06000007,none,247,Warrington
+E06000008,N/A,6023,Blackburn with Darwen
+E06000008,main,130160,Blackburn with Darwen
+E06000008,veryWell,5258,Blackburn with Darwen
+E06000008,well,7133,Blackburn with Darwen
+E06000008,notWell,5049,Blackburn with Darwen
+E06000008,none,1116,Blackburn with Darwen
+E06000009,N/A,4333,Blackpool
+E06000009,main,130665,Blackpool
+E06000009,veryWell,2421,Blackpool
+E06000009,well,2479,Blackpool
+E06000009,notWell,985,Blackpool
+E06000009,none,153,Blackpool
+E06000010,N/A,9438,Kingston upon Hull
+E06000010,main,231761,Kingston upon Hull
+E06000010,veryWell,8630,Kingston upon Hull
+E06000010,well,9652,Kingston upon Hull
+E06000010,notWell,6292,Kingston upon Hull
+E06000010,none,1241,Kingston upon Hull
+E06000013,N/A,4892,North Lincolnshire
+E06000013,main,154264,North Lincolnshire
+E06000013,veryWell,3354,North Lincolnshire
+E06000013,well,4419,North Lincolnshire
+E06000013,notWell,2396,North Lincolnshire
+E06000013,none,354,North Lincolnshire
+E06000016,N/A,12999,Leicester
+E06000016,main,248771,Leicester
+E06000016,veryWell,36216,Leicester
+E06000016,well,38545,Leicester
+E06000016,notWell,24541,Leicester
+E06000016,none,7499,Leicester
+E06000022,N/A,5231,Bath and North East Somerset
+E06000022,main,178953,Bath and North East Somerset
+E06000022,veryWell,5498,Bath and North East Somerset
+E06000022,well,2793,Bath and North East Somerset
+E06000022,notWell,783,Bath and North East Somerset
+E06000022,none,151,Bath and North East Somerset
+E06000025,N/A,9519,South Gloucestershire
+E06000025,main,265801,South Gloucestershire
+E06000025,veryWell,7835,South Gloucestershire
+E06000025,well,5161,South Gloucestershire
+E06000025,notWell,1829,South Gloucestershire
+E06000025,none,279,South Gloucestershire
+E06000030,N/A,7878,Swindon
+E06000030,main,202988,Swindon
+E06000030,veryWell,10415,Swindon
+E06000030,well,8117,Swindon
+E06000030,notWell,3322,Swindon
+E06000030,none,690,Swindon
+E06000033,N/A,5987,Southend-on-Sea
+E06000033,main,164381,Southend-on-Sea
+E06000033,veryWell,5031,Southend-on-Sea
+E06000033,well,3640,Southend-on-Sea
+E06000033,notWell,1419,Southend-on-Sea
+E06000033,none,227,Southend-on-Sea
+E06000034,N/A,7181,Thurrock
+E06000034,main,149725,Thurrock
+E06000034,veryWell,8087,Thurrock
+E06000034,well,7862,Thurrock
+E06000034,notWell,2700,Thurrock
+E06000034,none,444,Thurrock
+E06000046,N/A,3171,Isle of Wight
+E06000046,main,134738,Isle of Wight
+E06000046,veryWell,1388,Isle of Wight
+E06000046,well,787,Isle of Wight
+E06000046,notWell,306,Isle of Wight
+E06000046,none,70,Isle of Wight
+E06000049,N/A,11440,Cheshire East
+E06000049,main,370917,Cheshire East
+E06000049,veryWell,7066,Cheshire East
+E06000049,well,6143,Cheshire East
+E06000049,notWell,2748,Cheshire East
+E06000049,none,456,Cheshire East
+E06000052,N/A,14735,Cornwall
+E06000052,main,545343,Cornwall
+E06000052,veryWell,5384,Cornwall
+E06000052,well,3256,Cornwall
+E06000052,notWell,1327,Cornwall
+E06000052,none,261,Cornwall
+E07000011,N/A,5656,Huntingdonshire
+E07000011,main,165858,Huntingdonshire
+E07000011,veryWell,4352,Huntingdonshire
+E07000011,well,3434,Huntingdonshire
+E07000011,notWell,1330,Huntingdonshire
+E07000011,none,202,Huntingdonshire
+E07000039,N/A,3437,South Derbyshire
+E07000039,main,100580,South Derbyshire
+E07000039,veryWell,1711,South Derbyshire
+E07000039,well,1010,South Derbyshire
+E07000039,notWell,374,South Derbyshire
+E07000039,none,95,South Derbyshire
+E07000040,N/A,3756,East Devon
+E07000040,main,144297,East Devon
+E07000040,veryWell,1495,East Devon
+E07000040,well,888,East Devon
+E07000040,notWell,305,East Devon
+E07000040,none,87,East Devon
+E07000044,N/A,1977,South Hams
+E07000044,main,85427,South Hams
+E07000044,veryWell,768,South Hams
+E07000044,well,340,South Hams
+E07000044,notWell,94,South Hams
+E07000044,none,22,South Hams
+E07000064,N/A,2169,Rother
+E07000064,main,89169,Rother
+E07000064,veryWell,979,Rother
+E07000064,well,565,Rother
+E07000064,notWell,183,Rother
+E07000064,none,45,Rother
+E07000065,N/A,4127,Wealden
+E07000065,main,152877,Wealden
+E07000065,veryWell,1839,Wealden
+E07000065,well,953,Wealden
+E07000065,notWell,302,Wealden
+E07000065,none,53,Wealden
+E07000066,N/A,7236,Basildon
+E07000066,main,171066,Basildon
+E07000066,veryWell,4721,Basildon
+E07000066,well,3224,Basildon
+E07000066,notWell,1138,Basildon
+E07000066,none,186,Basildon
+E07000073,N/A,3662,Harlow
+E07000073,main,80315,Harlow
+E07000073,veryWell,4022,Harlow
+E07000073,well,3778,Harlow
+E07000073,notWell,1348,Harlow
+E07000073,none,203,Harlow
+E07000078,N/A,3396,Cheltenham
+E07000078,main,107474,Cheltenham
+E07000078,veryWell,3971,Cheltenham
+E07000078,well,2900,Cheltenham
+E07000078,notWell,956,Cheltenham
+E07000078,none,139,Cheltenham
+E07000081,N/A,4341,Gloucester
+E07000081,main,117816,Gloucester
+E07000081,veryWell,4399,Gloucester
+E07000081,well,3871,Gloucester
+E07000081,notWell,1703,Gloucester
+E07000081,none,286,Gloucester
+E07000083,N/A,3096,Tewkesbury
+E07000083,main,88713,Tewkesbury
+E07000083,veryWell,1619,Tewkesbury
+E07000083,well,1061,Tewkesbury
+E07000083,notWell,345,Tewkesbury
+E07000083,none,50,Tewkesbury
+E07000090,N/A,3543,Havant
+E07000090,main,118081,Havant
+E07000090,veryWell,1368,Havant
+E07000090,well,856,Havant
+E07000090,notWell,311,Havant
+E07000090,none,49,Havant
+E07000103,N/A,3892,Watford
+E07000103,main,79640,Watford
+E07000103,veryWell,9425,Watford
+E07000103,well,6650,Watford
+E07000103,notWell,2298,Watford
+E07000103,none,342,Watford
+E07000112,N/A,2984,Folkestone and Hythe
+E07000112,main,101622,Folkestone and Hythe
+E07000112,veryWell,2439,Folkestone and Hythe
+E07000112,well,1852,Folkestone and Hythe
+E07000112,notWell,666,Folkestone and Hythe
+E07000112,none,195,Folkestone and Hythe
+E07000119,N/A,1911,Fylde
+E07000119,main,77708,Fylde
+E07000119,veryWell,802,Fylde
+E07000119,well,591,Fylde
+E07000119,notWell,309,Fylde
+E07000119,none,51,Fylde
+E07000120,N/A,2889,Hyndburn
+E07000120,main,74580,Hyndburn
+E07000120,veryWell,1300,Hyndburn
+E07000120,well,1906,Hyndburn
+E07000120,notWell,1311,Hyndburn
+E07000120,none,248,Hyndburn
+E07000124,N/A,1509,Ribble Valley
+E07000124,main,59209,Ribble Valley
+E07000124,veryWell,413,Ribble Valley
+E07000124,well,281,Ribble Valley
+E07000124,notWell,136,Ribble Valley
+E07000124,none,12,Ribble Valley
+E07000136,N/A,2072,Boston
+E07000136,main,54259,Boston
+E07000136,veryWell,4188,Boston
+E07000136,well,5472,Boston
+E07000136,notWell,3779,Boston
+E07000136,none,732,Boston
+E07000142,N/A,2509,West Lindsey
+E07000142,main,91185,West Lindsey
+E07000142,veryWell,768,West Lindsey
+E07000142,well,481,West Lindsey
+E07000142,notWell,185,West Lindsey
+E07000142,none,21,West Lindsey
+E07000147,N/A,2050,North Norfolk
+E07000147,main,99615,North Norfolk
+E07000147,veryWell,591,North Norfolk
+E07000147,well,502,North Norfolk
+E07000147,notWell,176,North Norfolk
+E07000147,none,45,North Norfolk
+E07000168,N/A,2735,Scarborough
+E07000168,main,102837,Scarborough
+E07000168,veryWell,1296,Scarborough
+E07000168,well,1148,Scarborough
+E07000168,notWell,612,Scarborough
+E07000168,none,108,Scarborough
+E07000174,N/A,3474,Mansfield
+E07000174,main,98681,Mansfield
+E07000174,veryWell,2771,Mansfield
+E07000174,well,3670,Mansfield
+E07000174,notWell,1653,Mansfield
+E07000174,none,232,Mansfield
+E07000198,N/A,2361,Staffordshire Moorlands
+E07000198,main,92663,Staffordshire Moorlands
+E07000198,veryWell,404,Staffordshire Moorlands
+E07000198,well,275,Staffordshire Moorlands
+E07000198,notWell,113,Staffordshire Moorlands
+E07000198,none,29,Staffordshire Moorlands
+E07000202,N/A,4869,Ipswich
+E07000202,main,118944,Ipswich
+E07000202,veryWell,5989,Ipswich
+E07000202,well,6205,Ipswich
+E07000202,notWell,3091,Ipswich
+E07000202,none,544,Ipswich
+E07000214,N/A,2576,Surrey Heath
+E07000214,main,82147,Surrey Heath
+E07000214,veryWell,3125,Surrey Heath
+E07000214,well,1769,Surrey Heath
+E07000214,notWell,686,Surrey Heath
+E07000214,none,150,Surrey Heath
+E08000001,N/A,10879,Bolton
+E08000001,main,253869,Bolton
+E08000001,veryWell,9764,Bolton
+E08000001,well,12303,Bolton
+E08000001,notWell,7590,Bolton
+E08000001,none,1558,Bolton
+E08000019,N/A,17711,Sheffield
+E08000019,main,491478,Sheffield
+E08000019,veryWell,18228,Sheffield
+E08000019,well,18070,Sheffield
+E08000019,notWell,9322,Sheffield
+E08000019,none,1712,Sheffield
+E09000012,N/A,9950,Hackney
+E09000012,main,199667,Hackney
+E09000012,veryWell,23015,Hackney
+E09000012,well,14674,Hackney
+E09000012,notWell,9972,Hackney
+E09000012,none,1869,Hackney
+E07000075,N/A,2460,Rochford
+E07000075,main,82281,Rochford
+E07000075,veryWell,525,Rochford
+E07000075,well,261,Rochford
+E07000075,notWell,112,Rochford
+E07000075,none,22,Rochford
+E07000077,N/A,2876,Uttlesford
+E07000077,main,85775,Uttlesford
+E07000077,veryWell,1590,Uttlesford
+E07000077,well,776,Uttlesford
+E07000077,notWell,272,Uttlesford
+E07000077,none,52,Uttlesford
+E07000105,N/A,4373,Ashford
+E07000105,main,119669,Ashford
+E07000105,veryWell,3998,Ashford
+E07000105,well,3067,Ashford
+E07000105,notWell,1234,Ashford
+E07000105,none,407,Ashford
+W06000023,veryWell,1002,Powys
+W06000023,well,952,Powys
+W06000023,notWell,439,Powys
+W06000023,none,99,Powys
+W06000024,N/A,1882,Merthyr Tydfil
+W06000024,main,54784,Merthyr Tydfil
+W06000024,veryWell,778,Merthyr Tydfil
+W06000024,well,765,Merthyr Tydfil
+W06000024,notWell,514,Merthyr Tydfil
+W06000024,none,116,Merthyr Tydfil
+E06000053,N/A,68,Isles of Scilly
+E06000053,main,1940,Isles of Scilly
+E06000053,veryWell,27,Isles of Scilly
+E06000053,well,14,Isles of Scilly
+E06000053,notWell,4,Isles of Scilly
+E06000053,none,1,Isles of Scilly
+E09000001,N/A,135,City of London
+E09000001,main,6624,City of London
+E09000001,veryWell,1305,City of London
+E09000001,well,386,City of London
+E09000001,notWell,116,City of London
+E09000001,none,19,City of London
